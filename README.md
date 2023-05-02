@@ -24,7 +24,7 @@
 - [Setting up  a Vulnerability Management Lab](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 - [The OSI refernce model: The foundation of Cybersecurity](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 
-<h2>💬 Popular Articles</h2>
+<h2>📝 Popular Articles</h2>
 
 - <b>Cybersecurity and your moral compass</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
   
@@ -44,6 +44,23 @@
   
 - <b>AWS</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
   
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephen-nazieh&show_icons=true&locale=en" alt="stephen-nazieh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-nazieh&" alt="stephen-nazieh" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://linkedin.com/in/stephen nazieh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen nazieh" height="30" width="40" /></a>
+</p>
+
 
 <h2> 🤳 Connect with me:</h2>
 
