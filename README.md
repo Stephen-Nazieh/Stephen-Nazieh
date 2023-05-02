@@ -1,54 +1,72 @@
-<h1 align="center">Hi 👋, I'm Stephen Nazieh</h1>
-<h3 align="center">A Cybersecurity enthusiast</h3>
+<h1>Hi, I'm Stephen! <br/><a href="https://github.com/joshmadakor1">Educator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">Sports lover</a></h1>
 
-![github](https://user-images.githubusercontent.com/132319217/235575093-7483d57d-a36e-4300-9072-d3c79b283fc1.png)
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-I am currently in the process of changing my career from teaching to Cybersecurity. I am really enjoying my journey so far, and already foreseeing an exciting new career. I cannot wait to publish my hands on projects. You can checkout my general perspectives and new paradigm on the cyberspace on my LinkedIn and twitter accounts. My notes and tips on how to scale the "mountain" of knowledge into cyber with relative ease can also be found at ..........
+- <b>Virtualiztion and Virtual Machines (VirtualBox)</b>
+  - [Setting up a secure virtual lab for cybersecurity](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Security Information and Event Management Lab</b>
+  - [Homemade SIEM lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+- <b>Virtual Active Directory</b>
+  - [Setting up a Virtual Active Directory on VirtualBox](https://github.com/joshmadakor1/Sentinel-Lab)  
+- <b>File Intergrity</b>
+  - [Setting up a File Intergrity Monitor](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Vulnerability Management</b>
+  - [Setting up  a Vulnerability Management Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>REST API</b>
+  - [Setting up  a REST API Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>📺 Popular YouTube Videos</h2>
 
-## Skills and Experience:
+- [Setting up a secure virtual lab for cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Homemade SIEM lab](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Setting up a Virtual Active Directory on VirtualBox](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Setting up a File Intergrity Monitor](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Setting up  a Vulnerability Management Lab](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [The OSI refernce model: The foundation of Cybersecurity](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+<h2>💬 Popular Articles</h2>
 
+- <b>Cybersecurity and your moral compass</b>(https://github.com/joshmadakor1/EncrypterPOC)
+  
+- <b>Power Imbalance between the Cyberworld and the Physical world</b>(https://github.com/joshmadakor1/EncrypterPOC)
+  
+- <b>Cybersecurity and Aliens: The role of Hackers</b>(https://github.com/joshmadakor1/EncrypterPOC)
 
-## Projects:
-### 1. Creating Virtual Machinhes
+- <b>Fighting Cybercrinme: What we learn from COVID-19</b>(https://github.com/joshmadakor1/EncrypterPOC)
 
+<h2>🌱 Certification</h2>
 
+- <b>Bachelor of Science in Mathematical Science</b>(https://github.com/joshmadakor1/EncrypterPOC)
 
-### 1. SIEM
+- <b>CompTIA Security+</b>(https://github.com/joshmadakor1/EncrypterPOC)
+  
+- <b>Microsoft Azure</b>(https://github.com/joshmadakor1/EncrypterPOC)
+  
+- <b>AWS</b>(https://github.com/joshmadakor1/EncrypterPOC)
+  
 
+<h2> 🤳 Connect with me:</h2>
 
-### 2. Vulnerability Testing
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 3.Penetsting
+Here are some ideas to get you started:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephen-nazieh&label=Profile%20views&color=0e75b6&style=flat" alt="stephen-nazieh" /> </p>
-
-- 🔭 I’m currently working on **setting up a lab for my cybersecurity projects**
-
-- 📝 I regularly write articles on [Cybersecurity](Cybersecurity)
-
-- 📫 How to reach me **nazerodavinci@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stephen nazieh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen nazieh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephen-nazieh&show_icons=true&locale=en" alt="stephen-nazieh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-nazieh&" alt="stephen-nazieh" /></p>
-
-
-
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stephen-Nazieh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Stephen-Nazieh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Stephen Nazieh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Stephen Nazieh)  
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
