@@ -1,5 +1,9 @@
 <h1>Hi, I'm Stephen! <br/><a href="https://github.com/joshmadakor1">Educator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">Sports lover</a></h1>
 
+![github](https://user-images.githubusercontent.com/132319217/235575093-7483d57d-a36e-4300-9072-d3c79b283fc1.png)
+
+I am currently in the process of transitting from education to Cybersecurity as a career I am really enjoying my journey so far, and already foreseeing an exciting new career. You may checkout my general perspectives and new paradigm on the cyberspace on my social media pages. My notes and tips on how to scale the "mountain" of knowledge into cyber with relative ease are also shared on my socail media. 
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Virtualiztion and Virtual Machines (VirtualBox)</b>
