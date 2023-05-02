@@ -16,6 +16,13 @@ I am currently in the process of changing my career from teaching to Cybersecuri
 ### 1. SIEM
 
 
+### 2. Vulnerability Testing
+
+
+
+### 3.Penetsting
+
+
 Skills: Cloud Computing / Networking / Cybersecurity / MQL5 / C++
 
 - 🔭 I’m currently working on Creating a virtual lab for my cybersecurity projects 
