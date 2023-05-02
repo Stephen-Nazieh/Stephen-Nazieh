@@ -47,7 +47,7 @@ I am currently in the process of changing my career from teaching to Cybersecuri
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephen-Nazieh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
