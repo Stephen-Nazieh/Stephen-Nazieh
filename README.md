@@ -5,23 +5,24 @@
 - <b>Virtualiztion and Virtual Machines (VirtualBox)</b>
   - [Setting up a secure virtual lab for cybersecurity](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 - <b>Security Information and Event Management Lab</b>
-  - [Homemade SIEM lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Homemade SIEM lab](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 - <b>Virtual Active Directory</b>
-  - [Setting up a Virtual Active Directory on VirtualBox](https://github.com/joshmadakor1/Sentinel-Lab)  
+  - [Setting up a Virtual Active Directory on VirtualBox](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)  
 - <b>File Intergrity</b>
-  - [Setting up a File Intergrity Monitor](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Setting up a File Intergrity Monitor](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 - <b>Vulnerability Management</b>
-  - [Setting up  a Vulnerability Management Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Setting up  a Vulnerability Management Lab](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 - <b>REST API</b>
-  - [Setting up  a REST API Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Setting up  a REST API Lab](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
+
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Setting up a secure virtual lab for cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Homemade SIEM lab](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Setting up a Virtual Active Directory on VirtualBox](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Setting up a File Intergrity Monitor](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Setting up  a Vulnerability Management Lab](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [The OSI refernce model: The foundation of Cybersecurity](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Setting up a secure virtual lab for cybersecurity](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
+- [Homemade SIEM lab](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
+- [Setting up a Virtual Active Directory on VirtualBox](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
+- [Setting up a File Intergrity Monitor](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
+- [Setting up  a Vulnerability Management Lab](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
+- [The OSI refernce model: The foundation of Cybersecurity](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 
 <h2>💬 Popular Articles</h2>
 
