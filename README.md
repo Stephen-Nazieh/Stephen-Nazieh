@@ -7,6 +7,15 @@ I am currently in the process of changing my career from teaching to Cybersecuri
 ## Skills and Experience:
 
 
+
+## Projects:
+### 1. Creating Virtual Machinhes
+
+
+
+### 1. SIEM
+
+
 Skills: Cloud Computing / Networking / Cybersecurity / MQL5 / C++
 
 - 🔭 I’m currently working on Creating a virtual lab for my cybersecurity projects 
