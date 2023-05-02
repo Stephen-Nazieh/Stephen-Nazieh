@@ -26,23 +26,23 @@
 
 <h2>💬 Popular Articles</h2>
 
-- <b>Cybersecurity and your moral compass</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Cybersecurity and your moral compass</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
   
-- <b>Power Imbalance between the Cyberworld and the Physical world</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Power Imbalance between the Cyberworld and the Physical world</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
   
-- <b>Cybersecurity and Aliens: The role of Hackers</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Cybersecurity and Aliens: The role of Hackers</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 
-- <b>Fighting Cybercrinme: What we learn from COVID-19</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Fighting Cybercrinme: What we learn from COVID-19</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 
 <h2>🌱 Certification</h2>
 
-- <b>Bachelor of Science in Mathematical Science</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Bachelor of Science in Mathematical Science</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 
-- <b>CompTIA Security+</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>CompTIA Security+</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
   
-- <b>Microsoft Azure</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Microsoft Azure</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
   
-- <b>AWS</b>(https://github.com/joshmadakor1/EncrypterPOC)
+- <b>AWS</b>(https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
   
 
 <h2> 🤳 Connect with me:</h2>
