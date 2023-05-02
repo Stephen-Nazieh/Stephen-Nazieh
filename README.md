@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Virtualiztion and Virtual Machines (VirtualBox)</b>
-  - [Setting up a secure virtual lab for cybersecurity](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up a secure virtual lab for cybersecurity](https://github.com/Stephen-Nazieh/Creating-a-Virtual-Machine-with-VirtualBox/blob/main/README.md)
 - <b>Security Information and Event Management Lab</b>
   - [Homemade SIEM lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Virtual Active Directory</b>
